@@ -4,8 +4,8 @@ public class Person extends Users {
     String lastName;
 
     public static void main(String[] args) {
-        Person abigail = new Person();
-        System.out.println(abigail.getName());
+        Person marvelous = new Person();
+        System.out.println(marvelous.getName());
     }    
 }
 
