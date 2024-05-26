@@ -12,9 +12,9 @@ public class Main {
 
         abigail.setName("marvelous");
         abigail.setPass("1234abc");
-        System.out.println(abigail.getName());
+        System.out.println(marvelous.getName());
         System.out.println(lecturer.getName());
-        System.out.println(abigail.getPass());
+        System.out.println(marvelous.getPass());
     }
 
 
