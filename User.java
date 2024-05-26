@@ -1,5 +1,5 @@
 public class User {
-    String username = "rokari";
+    String username = "marvelous";
     String password = "Pass";
     String login() {
         if (username.equals("rokari") && password.equals("Pass")) {
@@ -17,9 +17,9 @@ public class User {
     }
     
     public static void main(String[] args) {
-        User jane = new User();
-        User luke = new User();
-        System.out.println(luke.checker());
-        System.out.println(jane.login());
+        User uzoma = new User();
+        User marvelous = new User();
+        System.out.println(uzoma.checker());
+        System.out.println(marvelous.login());
     }
 }
